@@ -19,7 +19,7 @@ Finally, open the Workspace:
 ```
 File > Open Workspace...
 ```
-## Running the Project
+## Deployment
 ```
 cd yourAppName
 ```
