@@ -8,10 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@chakra-ui/icons": "^1.0.5",
-=======
->>>>>>> 85cee068644f3dbd47908abe26faa2f8af904e07
     "@chakra-ui/react": "^1.1.5",
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
